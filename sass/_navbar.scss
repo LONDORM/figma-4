@@ -1,0 +1,52 @@
+.navbar {
+    background: #163A24;
+    height: 98px;
+    display: flex;
+    align-items: center;
+
+    .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .ncontent {
+        display: flex;
+        gap: 24px;
+        align-items: center;
+
+        a {
+            font-family: 'Noto Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 22px;
+            text-align: right;
+            color: #FBFAF7;
+        }
+
+        p {
+            font-family: 'Noto Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 22px;
+            text-align: right;
+            color: #FBFAF7;
+        }
+
+        button {
+            font-family: 'Noto Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 22px;
+            text-align: right;
+            color: #FBFAF7;
+            background: #198C36;
+            border-radius: 160px;
+            padding: 15px 25px;
+            border: none;
+        }
+    }
+}

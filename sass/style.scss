@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+.container {
+    width: 1240px;
+    margin: 0 auto;
+}
+
+@import "_navbar.scss";
+@import "_p1.scss";
+@import "_p2.scss";
+@import "_p3.scss";
+@import "_p4.scss";
+@import "_p5.scss";
+@import "_p6.scss";
+@import "_p7.scss";
+@import "_p8.scss";
+@import "_p9.scss";
+@import "_p10.scss";

@@ -1,0 +1,38 @@
+.p3 {
+    background: #163A24;
+
+    h1 {
+        font-family: 'Recoleta';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 48px;
+        line-height: 54px;
+        text-align: center;
+        color: #FBFAF7;
+        padding: 66px 0px;
+    }
+
+    .p3d {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+
+        div {
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            margin-bottom: 140px;
+
+            p {
+                font-family: 'Noto Sans';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 18px;
+                line-height: 27px;
+                text-align: center;
+                color: #FBFAF7;
+                max-width: 195px;
+            }
+        }
+    }
+}

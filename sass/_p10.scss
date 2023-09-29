@@ -1,0 +1,60 @@
+.p10 {
+
+    .container {
+        padding: 40px 130px;
+    }
+
+    .p10row1 {
+        margin-bottom: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        h1 {
+            font-family: 'Recoleta';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 24px;
+            line-height: 36px;
+            text-align: center;
+            color: #163A24;
+        }
+
+        div {
+            display: flex;
+            gap: 15px;
+        }
+    }
+
+    .p10row2 {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 25px;
+
+        h6 {
+            font-family: 'Noto Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 21px;
+            color: #163A24;
+        }
+
+        div {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+
+            p {
+                font-family: 'Noto Sans';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 19px;
+                text-align: right;
+                color: #198C36;
+            }
+        }
+    }
+}
